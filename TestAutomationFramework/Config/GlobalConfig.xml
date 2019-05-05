@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<TestAutomationFramework>
+  <RunSettings>
+    <AUT>http://automationpractice.com/index.php</AUT>
+    <Browser>Chrome</Browser>
+    <LogPath>d:\CSharpAutoFrameworkLogFile\</LogPath>
+    <Timeout>1</Timeout>
+  </RunSettings>
+</TestAutomationFramework>
